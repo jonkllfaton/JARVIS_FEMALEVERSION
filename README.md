@@ -73,3 +73,4 @@ The assistant can tell jokes fetched from the pyjokes library, which are returne
 Application Opening:
 
 If the user asks to open applications like Notepad or Calculator, the assistant uses the os.system() function to open these apps.
+You Use For Free! Enjoy!
